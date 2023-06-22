@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (1.0.3)
+    email_address (0.2.4)
+      simpleidn
+    simpleidn (0.2.1)
+      unf (~> 0.1.4)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.8.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  colorize
+  email_address
+
+BUNDLED WITH
+   2.4.14
